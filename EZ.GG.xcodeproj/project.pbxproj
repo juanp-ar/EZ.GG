@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		2CD4BC852CCDCCB600E9C2CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2CD4BC6C2CCDCCB500E9C2CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2CD4BC732CCDCCB500E9C2CA;
+			remoteInfo = EZ.GG;
+		};
+		2CD4BC8F2CCDCCB600E9C2CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2CD4BC6C2CCDCCB500E9C2CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2CD4BC732CCDCCB500E9C2CA;
+			remoteInfo = EZ.GG;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2CD4BC742CCDCCB500E9C2CA /* EZ.GG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EZ.GG.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CD4BC842CCDCCB600E9C2CA /* EZ.GGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EZ.GGTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CD4BC8E2CCDCCB600E9C2CA /* EZ.GGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EZ.GGUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2CD4BC762CCDCCB500E9C2CA /* EZ.GG */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EZ.GG;
+			sourceTree = "<group>";
+		};
+		2CD4BC872CCDCCB600E9C2CA /* EZ.GGTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EZ.GGTests;
+			sourceTree = "<group>";
+		};
+		2CD4BC912CCDCCB600E9C2CA /* EZ.GGUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = EZ.GGUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2CD4BC712CCDCCB500E9C2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC812CCDCCB600E9C2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC8B2CCDCCB600E9C2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2CD4BC6B2CCDCCB500E9C2CA = {
+			isa = PBXGroup;
+			children = (
+				2CD4BC762CCDCCB500E9C2CA /* EZ.GG */,
+				2CD4BC872CCDCCB600E9C2CA /* EZ.GGTests */,
+				2CD4BC912CCDCCB600E9C2CA /* EZ.GGUITests */,
+				2CD4BC752CCDCCB500E9C2CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2CD4BC752CCDCCB500E9C2CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2CD4BC742CCDCCB500E9C2CA /* EZ.GG.app */,
+				2CD4BC842CCDCCB600E9C2CA /* EZ.GGTests.xctest */,
+				2CD4BC8E2CCDCCB600E9C2CA /* EZ.GGUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2CD4BC732CCDCCB500E9C2CA /* EZ.GG */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CD4BC982CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GG" */;
+			buildPhases = (
+				2CD4BC702CCDCCB500E9C2CA /* Sources */,
+				2CD4BC712CCDCCB500E9C2CA /* Frameworks */,
+				2CD4BC722CCDCCB500E9C2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2CD4BC762CCDCCB500E9C2CA /* EZ.GG */,
+			);
+			name = EZ.GG;
+			packageProductDependencies = (
+			);
+			productName = EZ.GG;
+			productReference = 2CD4BC742CCDCCB500E9C2CA /* EZ.GG.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2CD4BC832CCDCCB600E9C2CA /* EZ.GGTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CD4BC9B2CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GGTests" */;
+			buildPhases = (
+				2CD4BC802CCDCCB600E9C2CA /* Sources */,
+				2CD4BC812CCDCCB600E9C2CA /* Frameworks */,
+				2CD4BC822CCDCCB600E9C2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2CD4BC862CCDCCB600E9C2CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2CD4BC872CCDCCB600E9C2CA /* EZ.GGTests */,
+			);
+			name = EZ.GGTests;
+			packageProductDependencies = (
+			);
+			productName = EZ.GGTests;
+			productReference = 2CD4BC842CCDCCB600E9C2CA /* EZ.GGTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2CD4BC8D2CCDCCB600E9C2CA /* EZ.GGUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CD4BC9E2CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GGUITests" */;
+			buildPhases = (
+				2CD4BC8A2CCDCCB600E9C2CA /* Sources */,
+				2CD4BC8B2CCDCCB600E9C2CA /* Frameworks */,
+				2CD4BC8C2CCDCCB600E9C2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2CD4BC902CCDCCB600E9C2CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2CD4BC912CCDCCB600E9C2CA /* EZ.GGUITests */,
+			);
+			name = EZ.GGUITests;
+			packageProductDependencies = (
+			);
+			productName = EZ.GGUITests;
+			productReference = 2CD4BC8E2CCDCCB600E9C2CA /* EZ.GGUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2CD4BC6C2CCDCCB500E9C2CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					2CD4BC732CCDCCB500E9C2CA = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					2CD4BC832CCDCCB600E9C2CA = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 2CD4BC732CCDCCB500E9C2CA;
+					};
+					2CD4BC8D2CCDCCB600E9C2CA = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 2CD4BC732CCDCCB500E9C2CA;
+					};
+				};
+			};
+			buildConfigurationList = 2CD4BC6F2CCDCCB500E9C2CA /* Build configuration list for PBXProject "EZ.GG" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2CD4BC6B2CCDCCB500E9C2CA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2CD4BC752CCDCCB500E9C2CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2CD4BC732CCDCCB500E9C2CA /* EZ.GG */,
+				2CD4BC832CCDCCB600E9C2CA /* EZ.GGTests */,
+				2CD4BC8D2CCDCCB600E9C2CA /* EZ.GGUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2CD4BC722CCDCCB500E9C2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC822CCDCCB600E9C2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC8C2CCDCCB600E9C2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2CD4BC702CCDCCB500E9C2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC802CCDCCB600E9C2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CD4BC8A2CCDCCB600E9C2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2CD4BC862CCDCCB600E9C2CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2CD4BC732CCDCCB500E9C2CA /* EZ.GG */;
+			targetProxy = 2CD4BC852CCDCCB600E9C2CA /* PBXContainerItemProxy */;
+		};
+		2CD4BC902CCDCCB600E9C2CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2CD4BC732CCDCCB500E9C2CA /* EZ.GG */;
+			targetProxy = 2CD4BC8F2CCDCCB600E9C2CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2CD4BC962CCDCCB600E9C2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2CD4BC972CCDCCB600E9C2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2CD4BC992CCDCCB600E9C2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EZ.GG/Preview Content\"";
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GG";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2CD4BC9A2CCDCCB600E9C2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EZ.GG/Preview Content\"";
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GG";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2CD4BC9C2CCDCCB600E9C2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GGTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EZ.GG.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EZ.GG";
+			};
+			name = Debug;
+		};
+		2CD4BC9D2CCDCCB600E9C2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GGTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EZ.GG.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EZ.GG";
+			};
+			name = Release;
+		};
+		2CD4BC9F2CCDCCB600E9C2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GGUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = EZ.GG;
+			};
+			name = Debug;
+		};
+		2CD4BCA02CCDCCB600E9C2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = BCJ3V722F9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "conan.EZ-GGUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = EZ.GG;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2CD4BC6F2CCDCCB500E9C2CA /* Build configuration list for PBXProject "EZ.GG" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CD4BC962CCDCCB600E9C2CA /* Debug */,
+				2CD4BC972CCDCCB600E9C2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CD4BC982CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GG" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CD4BC992CCDCCB600E9C2CA /* Debug */,
+				2CD4BC9A2CCDCCB600E9C2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CD4BC9B2CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GGTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CD4BC9C2CCDCCB600E9C2CA /* Debug */,
+				2CD4BC9D2CCDCCB600E9C2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CD4BC9E2CCDCCB600E9C2CA /* Build configuration list for PBXNativeTarget "EZ.GGUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CD4BC9F2CCDCCB600E9C2CA /* Debug */,
+				2CD4BCA02CCDCCB600E9C2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2CD4BC6C2CCDCCB500E9C2CA /* Project object */;
+}
